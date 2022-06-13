@@ -8,8 +8,6 @@ This program will create two threads that read this array.
 */
 
 
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
